@@ -1,0 +1,22 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780 (ID=0x1004)
+    Vendor:   NVIDIA
+    VRAM:     2983 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Games\Project infinite runner\Little-Jump-Man\testExecutable_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Games\Project infinite runner\Little-Jump-Man\testExecutable_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Games\Project infinite runner\Little-Jump-Man\testExecutable_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Games\Project infinite runner\Little-Jump-Man\testExecutable_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.737574 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 315.
+Total: 0.310811 ms (FindLiveObjects: 0.008131 ms CreateObjectMapping: 0.006625 ms MarkObjects: 0.061439 ms  DeleteObjects: 0.002108 ms)
+
